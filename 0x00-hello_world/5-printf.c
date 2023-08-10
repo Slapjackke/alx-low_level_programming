@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/*main - start point
+/**
+ * main - start point
  *
  *Return: if success
 */
